@@ -1,0 +1,8 @@
+Enable Inputs of Date, Description, Debit & Credit.
+
+styles - Tabular
+	Functional - alike to MS excel, it increment table rows for new entry,
+			with a min size relative to the display size, 
+			text align center,
+
+Study CSS
